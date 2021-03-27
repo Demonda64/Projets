@@ -5,7 +5,7 @@ const fond = document.body;
  
 
 
-// Démarrage
+// Démarrage des familles
 let valCouleurs = ['#BA5370', '#F4E2D8'];
 let inclinaison = 45;
 let index = 3;
